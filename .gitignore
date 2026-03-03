@@ -30,5 +30,5 @@ env/
 # Models (large binary files — comment out if you want to track them)
 # models/trained/*.pkl
 
-# Reports (generated figures are fine to keep)
-reports/project_report.tex
+# Reports (keep local only)
+reports/
