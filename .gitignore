@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Data — keep raw/processed CSVs but ignore large binary dumps
+# Uncomment the line below if dataset is too large for GitHub
+# data/
+
+# Models (large binary files — comment out if you want to track them)
+# models/trained/*.pkl
+
+# Reports (generated figures are fine to keep)
