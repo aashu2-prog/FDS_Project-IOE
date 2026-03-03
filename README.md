@@ -53,21 +53,14 @@ FDS_Project/
 
 ---
 
-## Prerequisites
 
-| Tool   | Minimum Version | Download                      |
-| ------ | --------------- | ----------------------------- |
-| Python | 3.10+           | https://python.org/downloads  |
-| Git    | any recent      | https://git-scm.com/downloads |
-
----
 
 ## Getting Started
 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/FDS_Project.git
+https://github.com/aashu2-prog/FDS_Project-IOE.git
 cd FDS_Project
 ```
 
