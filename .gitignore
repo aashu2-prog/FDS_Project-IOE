@@ -31,3 +31,4 @@ env/
 # models/trained/*.pkl
 
 # Reports (generated figures are fine to keep)
+reports/project_report.tex
